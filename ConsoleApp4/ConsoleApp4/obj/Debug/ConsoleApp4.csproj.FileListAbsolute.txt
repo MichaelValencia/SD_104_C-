@@ -1,0 +1,14 @@
+C:\Users\edgetech\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\edgetech\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\edgetech\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\edgetech\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\edgetech\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\edgetech\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\edgetech\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Projects\SD-104 CSharp\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Projects\SD-104 CSharp\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Projects\SD-104 CSharp\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Projects\SD-104 CSharp\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Projects\SD-104 CSharp\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 CSharp\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Projects\SD-104 CSharp\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

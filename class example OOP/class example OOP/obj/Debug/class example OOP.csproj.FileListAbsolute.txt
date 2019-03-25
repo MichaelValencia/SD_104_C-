@@ -1,0 +1,7 @@
+C:\Users\edgetech\source\repos\class example OOP\class example OOP\obj\Debug\class example OOP.csprojAssemblyReference.cache
+C:\Users\edgetech\source\repos\class example OOP\class example OOP\obj\Debug\class example OOP.csproj.CoreCompileInputs.cache
+C:\Users\edgetech\source\repos\class example OOP\class example OOP\bin\Debug\class example OOP.exe.config
+C:\Users\edgetech\source\repos\class example OOP\class example OOP\bin\Debug\class example OOP.exe
+C:\Users\edgetech\source\repos\class example OOP\class example OOP\bin\Debug\class example OOP.pdb
+C:\Users\edgetech\source\repos\class example OOP\class example OOP\obj\Debug\class example OOP.exe
+C:\Users\edgetech\source\repos\class example OOP\class example OOP\obj\Debug\class example OOP.pdb

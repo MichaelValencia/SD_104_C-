@@ -1,0 +1,7 @@
+C:\Users\edgetech\source\repos\strings\strings\bin\Debug\strings.exe.config
+C:\Users\edgetech\source\repos\strings\strings\bin\Debug\strings.exe
+C:\Users\edgetech\source\repos\strings\strings\bin\Debug\strings.pdb
+C:\Users\edgetech\source\repos\strings\strings\obj\Debug\strings.csprojAssemblyReference.cache
+C:\Users\edgetech\source\repos\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+C:\Users\edgetech\source\repos\strings\strings\obj\Debug\strings.exe
+C:\Users\edgetech\source\repos\strings\strings\obj\Debug\strings.pdb

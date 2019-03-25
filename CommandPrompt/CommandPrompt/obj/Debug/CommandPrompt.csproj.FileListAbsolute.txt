@@ -1,0 +1,7 @@
+C:\Users\edgetech\source\repos\CommandPrompt\CommandPrompt\bin\Debug\CommandPrompt.exe.config
+C:\Users\edgetech\source\repos\CommandPrompt\CommandPrompt\bin\Debug\CommandPrompt.exe
+C:\Users\edgetech\source\repos\CommandPrompt\CommandPrompt\bin\Debug\CommandPrompt.pdb
+C:\Users\edgetech\source\repos\CommandPrompt\CommandPrompt\obj\Debug\CommandPrompt.csprojAssemblyReference.cache
+C:\Users\edgetech\source\repos\CommandPrompt\CommandPrompt\obj\Debug\CommandPrompt.csproj.CoreCompileInputs.cache
+C:\Users\edgetech\source\repos\CommandPrompt\CommandPrompt\obj\Debug\CommandPrompt.exe
+C:\Users\edgetech\source\repos\CommandPrompt\CommandPrompt\obj\Debug\CommandPrompt.pdb

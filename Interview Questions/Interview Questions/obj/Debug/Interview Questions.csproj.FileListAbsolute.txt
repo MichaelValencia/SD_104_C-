@@ -1,0 +1,7 @@
+C:\Projects\SD-104 CSharp\Interview Questions\Interview Questions\bin\Debug\Interview Questions.exe.config
+C:\Projects\SD-104 CSharp\Interview Questions\Interview Questions\bin\Debug\Interview Questions.exe
+C:\Projects\SD-104 CSharp\Interview Questions\Interview Questions\bin\Debug\Interview Questions.pdb
+C:\Projects\SD-104 CSharp\Interview Questions\Interview Questions\obj\Debug\Interview Questions.csprojAssemblyReference.cache
+C:\Projects\SD-104 CSharp\Interview Questions\Interview Questions\obj\Debug\Interview Questions.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 CSharp\Interview Questions\Interview Questions\obj\Debug\Interview Questions.exe
+C:\Projects\SD-104 CSharp\Interview Questions\Interview Questions\obj\Debug\Interview Questions.pdb

@@ -1,0 +1,2 @@
+C:\Users\edgetech\source\repos\cSharpReview\cSharpReview\obj\Debug\cSharpReview.csprojAssemblyReference.cache
+C:\Users\edgetech\source\repos\cSharpReview\cSharpReview\obj\Debug\cSharpReview.csproj.CoreCompileInputs.cache

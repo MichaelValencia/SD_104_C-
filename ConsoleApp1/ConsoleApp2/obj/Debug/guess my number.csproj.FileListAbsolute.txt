@@ -1,0 +1,14 @@
+C:\Users\edgetech\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\edgetech\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\edgetech\source\repos\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\edgetech\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\guess my number.csprojAssemblyReference.cache
+C:\Users\edgetech\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\guess my number.csproj.CoreCompileInputs.cache
+C:\Users\edgetech\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\edgetech\source\repos\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Projects\SD-104 CSharp\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Projects\SD-104 CSharp\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Projects\SD-104 CSharp\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Projects\SD-104 CSharp\ConsoleApp1\ConsoleApp2\obj\Debug\guess my number.csprojAssemblyReference.cache
+C:\Projects\SD-104 CSharp\ConsoleApp1\ConsoleApp2\obj\Debug\guess my number.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104 CSharp\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Projects\SD-104 CSharp\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

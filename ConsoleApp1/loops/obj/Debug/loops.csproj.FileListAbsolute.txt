@@ -1,0 +1,7 @@
+C:\Users\edgetech\source\repos\ConsoleApp1\loops\bin\Debug\loops.exe.config
+C:\Users\edgetech\source\repos\ConsoleApp1\loops\bin\Debug\loops.exe
+C:\Users\edgetech\source\repos\ConsoleApp1\loops\bin\Debug\loops.pdb
+C:\Users\edgetech\source\repos\ConsoleApp1\loops\obj\Debug\loops.csprojAssemblyReference.cache
+C:\Users\edgetech\source\repos\ConsoleApp1\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\edgetech\source\repos\ConsoleApp1\loops\obj\Debug\loops.exe
+C:\Users\edgetech\source\repos\ConsoleApp1\loops\obj\Debug\loops.pdb

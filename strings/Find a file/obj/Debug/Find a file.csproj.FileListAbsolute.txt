@@ -1,0 +1,7 @@
+C:\Users\edgetech\source\repos\strings\Find a file\bin\Debug\Find a file.exe.config
+C:\Users\edgetech\source\repos\strings\Find a file\bin\Debug\Find a file.exe
+C:\Users\edgetech\source\repos\strings\Find a file\bin\Debug\Find a file.pdb
+C:\Users\edgetech\source\repos\strings\Find a file\obj\Debug\Find a file.csprojAssemblyReference.cache
+C:\Users\edgetech\source\repos\strings\Find a file\obj\Debug\Find a file.csproj.CoreCompileInputs.cache
+C:\Users\edgetech\source\repos\strings\Find a file\obj\Debug\Find a file.exe
+C:\Users\edgetech\source\repos\strings\Find a file\obj\Debug\Find a file.pdb
